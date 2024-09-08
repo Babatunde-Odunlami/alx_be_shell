@@ -1,2 +1,2 @@
 #!/bin/bash
-touch /home/alx_be_shell/shell_permissions/hello.sh
+touch hello
