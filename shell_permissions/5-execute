@@ -1,0 +1,2 @@
+#!/bin/bash
+sudo chmod u+x /home/alx_be_shell/shell_permissions/hello
